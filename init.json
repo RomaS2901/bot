@@ -1,0 +1,5 @@
+{
+    "numberOfUsers": 3,
+    "maxPostPerUser": 1,
+    "maxLikesPerUser": 2
+}
